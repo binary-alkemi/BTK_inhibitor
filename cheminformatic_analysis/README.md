@@ -6,6 +6,8 @@ UniProt ID of BTK:Q06187
 
 ChEMBL ID is CHEMBL5251
 
+Total compounds: 2751 (with nm IC50)
+
 ## Reference:
 
 This analysis is inspired by TeachopenCADD Tutorials. Github link of TeachopenCADD
