@@ -3,6 +3,7 @@ Date: 11 August 2022
 # Analysis of Bruton’s tyrosine kinase (BTK) inhibitors from CHEMBL
 
 UniProt ID of BTK:Q06187
+
 ChEMBL ID is CHEMBL5251
 
 ## Reference:
