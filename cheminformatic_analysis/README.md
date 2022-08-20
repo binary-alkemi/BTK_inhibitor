@@ -8,7 +8,10 @@ ChEMBL ID is CHEMBL5251
 
 ## Reference:
 
-    This analysis is inspired by TeachopenCADD Tutorials. Github link of TeachopenCADD
-    Nice introduction to CHEMBL API here
+This analysis is inspired by TeachopenCADD Tutorials. Github link of TeachopenCADD
+https://volkamerlab.org/projects/teachopencadd/
+https://github.com/volkamerlab/TeachOpenCADD
 
 
+Nice introduction to CHEMBL API here:
+https://mybinder.org/v2/gh/chembl/chembl_webresource_client/138bf286734aef30f53c5f959629339f1ac61d1c
