@@ -8,9 +8,11 @@ This project is divided in following parts:
 
 
 ### git commands to push changes
-``git add .
+```
+git add .
 
 git commit -m "added gitignore"
 
-git push origin main```
+git push origin main
+```
 
