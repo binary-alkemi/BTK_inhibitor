@@ -1,4 +1,4 @@
-# Computational design of Bruton Tyrosine Kinase (BTK) Inhibitors
+# Computational Design of Bruton Tyrosine Kinase (BTK) Inhibitors
 
 This project is divided in following parts:
 1. Cheminformatic analysis of BTK inhibitors
