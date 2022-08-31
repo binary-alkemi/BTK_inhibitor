@@ -1,5 +1,7 @@
-# BTK_inhibitor
-Computational designing of Bruton Tyrosine Kinase (BTK) Inhibitor
+
+====================== THIS IS A PERSONAL PROJECT ==========================
+
+# Computational designing of Bruton Tyrosine Kinase (BTK) Inhibitor
 
 This project is divided in following parts:
 1. Cheminformatic analysis of BTK inhibitors
